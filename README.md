@@ -33,11 +33,11 @@
 
 **Designer Story**
 
-See our [**Designer Story**](https://drive.google.com/file/d/101LYRoqgAsZr1rWj46QbK9kFJfvhTRWr/view?usp=drive_link), which helped us with initial class/candidate generation.
+See our [**Designer Story**](https://drive.google.com/file/d/1HElzra6aJhKcHhbpUAGQ2qmtY-KpZ-6m/view?usp=drive_link), which helped us with initial class/candidate generation.
 
 **CRC Cards**
 
-The process followed for making our CRC cards can be found [**here**](https://drive.google.com/file/d/1k9vFMTyseqqFRsH0n3Jnhc62Ez8VVGAo/view?usp=drive_link).
+The process followed for making our CRC cards can be found [**here**](https://drive.google.com/file/d/1VVYmG-RD90m30jwYl3VeuXbiY29lbSaF/view?usp=drive_link).
 
 Otherwise, see below for the initial and final screenshots.
 Initial CRC cards:
@@ -45,13 +45,13 @@ Initial CRC cards:
 CRC cards after refinement (orgainised into a tree):
 <img width="1600" height="600" alt="crc_cards_in_tree" src="https://github.com/user-attachments/assets/b5617c1c-34be-40c1-b622-d6567eea0b01" />
 
-**Initial UML diagram draft**
+**Initial Class diagram draft**
 
-The process followed for converting our CRC cards to an initial class diagram can be found [**here**](https://drive.google.com/file/d/1u5Pa9I_QoRFOUnS5VstKnek8CN3375YS/view?usp=drive_link)
+The process followed for converting our CRC cards to an initial class diagram can be found [**here**](https://drive.google.com/file/d/1RE1bZbf29ZUz1s5W5ExYIe10V33A7L12/view?usp=drive_link)
 
 Alternatively, here is the final image:
 <img width="855" height="622" alt="initial_class_diagram" src="https://github.com/user-attachments/assets/fef79a93-3c5a-4776-aac4-da6cbd74c9a6" />
 
 # Textural Use Cases
 
-As mentioned in the Arch1.pdf document, [here](https://docs.google.com/document/d/1JCKt6FPxFF02CJVOS1i4zL0E43CWQsbQSSzEFjWrgw0/edit?tab=t.0) are the rest of the textural use cases that go alongside the UML Use Case diagram.
+As mentioned in the Arch1.pdf document, [here](https://drive.google.com/file/d/11w35mzfI9ZofAGMDj7UyocLhHbGkAZZb/view?usp=drive_link) are the rest of the textural use cases that go alongside the UML Use Case diagram.
