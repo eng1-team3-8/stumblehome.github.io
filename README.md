@@ -28,6 +28,10 @@
 **Week 5**
 <img width="1439" height="348" alt="image" src="https://github.com/user-attachments/assets/bdc28f2d-5a75-4c00-a0a2-a7690f0b528d" />
 
+**Week 6**
+<img width="1078" height="271" alt="image" src="https://github.com/user-attachments/assets/f2716ddb-e215-4da0-a17a-e94e4ac5b6cd" />
+
+
 
 # Development of the design (see arch1.pdf)
 
