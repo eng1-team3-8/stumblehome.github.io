@@ -2,15 +2,15 @@
 
 # Deliverables
 
-[**Requirements (Req1.pdf)**](link)
+[**Requirements (Req1.pdf)**](https://drive.google.com/file/d/1cJagpUfQHSiuYobdKHofKd60QHzWdA5O/view?usp=drive_link)
 
-[**Architecture (Arch1.pdf)**](link)
+[**Architecture (Arch1.pdf)**](https://drive.google.com/file/d/1fyTnilqzZ3jdz1x-8T05aTP9Gr2tmLPq/view?usp=drive_link)
 
-[**Method Selection and planning (Plan1.pdf)**](link)
+[**Method Selection and planning (Plan1.pdf)**](https://drive.google.com/file/d/16icduf05ZgrrImsSQWADhBT_V_PJ2h5n/view?usp=drive_link)
 
-[**Risk assessment and mitigation (Risk1.pdf)**](link)
+[**Risk assessment and mitigation (Risk1.pdf)**](https://drive.google.com/file/d/1WHUf5C20mYeQRFxMj7ra0yD6ARnffna0/view?usp=drive_link)
 
-[**Implementation (Impl1.pdf)**](link)
+[**Implementation (Impl1.pdf)**](https://drive.google.com/file/d/1bevQEN611SwFSF3QNQwRETlTtapaUMtF/view?usp=drive_link)
 
 # Weekly Team Kanban Snapshots (see plan1.pdf)
 **Week 1**
