@@ -1,5 +1,61 @@
-.maintitle {
+/* The div wrapped around the button */
+.deliverablesmenu{
     position: relative;
+    display: inline-block; 
+}
+
+/* The deliverables dropdown button */
+.deliverablesbutton{
+    background-color: darkcyan;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+/* Dropdown content */
+.deliverablesdropdown{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.deliverablesdropdown a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.deliverablesdropdown a:hover {background-color: #ddd;}
+
+.deliverablesmenu:hover .deliverablesdropdown {display: block}
+
+.deliverablesmenu:hover .deliverablesbutton {background-color: #3e8e41;}
+
+
+.maintitle {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.maintitle h1{
     text-align: center;
     color: green;
+    font-size: 100px;
+    text-transform: uppercase;
+}
+
+.maintitle h1:before, h1:after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid green;
+    border-top: 1px solid green;
+    height: 5px;
+    background-color: lightgreen;
 }
