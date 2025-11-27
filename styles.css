@@ -32,6 +32,8 @@
 
 .deliverablesdropdown a:hover {background-color: #ddd;}
 
+.deliverablesdropdown .active{background-color: #ddd;}
+
 .deliverablesmenu:hover .deliverablesdropdown {display: block}
 
 .deliverablesmenu:hover .deliverablesbutton {background-color: #3e8e41;}
